@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.cdc6188f.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.38661a0e.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.38661a0e.chunk.js.map",
+    "main.css": "/react-portfolio/static/css/main.2ccc4022.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.14d24e70.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.14d24e70.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.d6f65571.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.d6f65571.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/react-portfolio/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.ec4bfd1e.chunk.js": "/react-portfolio/static/js/2.ec4bfd1e.chunk.js",
-    "static/js/2.ec4bfd1e.chunk.js.map": "/react-portfolio/static/js/2.ec4bfd1e.chunk.js.map",
+    "static/js/2.5ec80c4c.chunk.js": "/react-portfolio/static/js/2.5ec80c4c.chunk.js",
+    "static/js/2.5ec80c4c.chunk.js.map": "/react-portfolio/static/js/2.5ec80c4c.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "precache-manifest.91f78cd36eed60109e853633a18c86e3.js": "/react-portfolio/precache-manifest.91f78cd36eed60109e853633a18c86e3.js",
+    "precache-manifest.ae5eb95615263ab232d3923c50a2ebbf.js": "/react-portfolio/precache-manifest.ae5eb95615263ab232d3923c50a2ebbf.js",
     "service-worker.js": "/react-portfolio/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/react-portfolio/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.cdc6188f.chunk.css.map": "/react-portfolio/static/css/main.cdc6188f.chunk.css.map",
-    "static/js/2.ec4bfd1e.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.ec4bfd1e.chunk.js.LICENSE.txt",
+    "static/css/main.2ccc4022.chunk.css.map": "/react-portfolio/static/css/main.2ccc4022.chunk.css.map",
+    "static/js/2.5ec80c4c.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.5ec80c4c.chunk.js.LICENSE.txt",
     "static/media/andy_photo.jpg": "/react-portfolio/static/media/andy_photo.b04d60cd.jpg",
     "static/media/utreview_logo.png": "/react-portfolio/static/media/utreview_logo.d144fdd1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d6f65571.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.ec4bfd1e.chunk.js",
-    "static/css/main.cdc6188f.chunk.css",
-    "static/js/main.38661a0e.chunk.js"
+    "static/js/2.5ec80c4c.chunk.js",
+    "static/css/main.2ccc4022.chunk.css",
+    "static/js/main.14d24e70.chunk.js"
   ]
 }
